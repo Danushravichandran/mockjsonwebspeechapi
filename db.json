@@ -1,19 +1,19 @@
 {
-  "go_to_pink_boys_shirt": [
+  "_go_to_pink_boys_shirt": [
     {
       "id": 1,
       "title": "pink boys shirt",
       "link": "https://danushravichandran.github.io/dummywebsite/product-details.html"
     }
   ],
-  "go_to_red_girls_shirt": [
+  "_go_to_red_girls_shirt": [
     {
       "id": 2,
       "title": "red girls shirt",
       "link": "https://danushravichandran.github.io/dummywebsite/product-details.html"
     }
   ],
-  "go_to_blue_mens_shirt": [
+  "_go_to_blue_mens_shirt": [
     {
       "id": 3,
       "title": "blue mens shirt",
